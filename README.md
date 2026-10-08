@@ -20,3 +20,4 @@ I'm a software developer, content creator, and co-founder of Ekransız Oyuncular
 | [Ghostkiller Sound Toolbox](https://github.com/ghostkillerr/ghostkiller_sound_toolbox) | Ses ayrıştırma ve AI cover araçları. / Audio separation and AI cover tools. |
 | [Golden Ghost](https://github.com/ghostkillerr/golden-ghost-releases) | Oyunun herkese açık sürüm ve indirme deposu. / Public releases and downloads for the game. |
 | [Ekransız Oyuncular](https://ekransizoyuncular.gen.tr/) | Erişilebilir oyun ve yazılım topluluğu. / Accessible gaming and software community. |
+| [Ghostkiller Truck Game](https://ekransizoyuncular.gen.tr/truck) | Erişilebilir tır oyunu; tarayıcıdan oynanabilir. / An accessible truck game playable in the browser. |
